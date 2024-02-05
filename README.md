@@ -1,1 +1,1 @@
-A small mini-project where I performed in-depth exploratory data analysis on a dataset including information on airplane strikes on wildlife since 1990. Leveraged Pandas, NumPy, Matplotlib, and Seaborn.
+A small mini-project where I performed in-depth exploratory data analysis on a dataset including information on airplane strikes on wildlife since 1990. Leveraged Pandas, NumPy, Matplotlib, and Seaborn to perform data manipulation, data analysis, data visualization, and gain insights from the data.
